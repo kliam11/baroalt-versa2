@@ -1,0 +1,20 @@
+.text { 
+  fill: white; 
+  text-anchor: middle;
+  font-family: "System-Regular"; 
+  text-length: "25"; 
+}
+
+#units { 
+  font-size: "25";
+}
+
+#pressure { 
+  font-size: "50";
+}
+
+#alt { 
+  font-size: "35";
+}
+
+
